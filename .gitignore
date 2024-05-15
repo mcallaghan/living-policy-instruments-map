@@ -1,0 +1,6 @@
+*.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+nohup.out
+venv/*
+__pycache__/*
+map-updates.db

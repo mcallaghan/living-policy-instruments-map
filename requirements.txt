@@ -1,0 +1,5 @@
+typer
+requests
+pyarrow
+nacsos_pipelines @ git+https://gitlab.pik-potsdam.de/mcc-apsis/nacsos/nacsos-pipelines.git
+#nacsos_data[scripts,server,utils] @ git+https://gitlab.pik-potsdam.de/mcc-apsis/nacsos/nacsos-data.git@v0.14.6
